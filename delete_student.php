@@ -7,5 +7,5 @@ if (isset($_POST['ID'])) {
 	$sql = 'DELETE FROM  ttsv WHERE ID = '.$ID;
 	execute($sql);
 
-	echo 'Xoá sinh viên thành công';
+	echo 'Xoá học sinh thành công';
 }

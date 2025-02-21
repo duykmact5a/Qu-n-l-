@@ -181,15 +181,15 @@ CREATE TABLE `ttsv` (
 --
 
 INSERT INTO `ttsv` (`ID`, `hoten`, `gender`, `birth`, `lop`, `nganh`, `que`, `MSV`) VALUES
-(1, 'Ngô Trần Anh Đức', 'Nam', '1999-12-08', 'D17DCAT01-B', 'ATTT', 'Hà Nội', 'B17DCAT001'),
-(2, 'Phạm Văn Hiếu', 'Nam', '1999-12-12', 'D17DCAT01-B', 'ATTT', 'Nam ĐỊnh', 'B17DCAT012'),
-(3, 'Nguyễn Thái Học', 'Nam', '1998-12-12', 'D17DCAT01-B', 'ATTT', 'Hà Nội', 'B17DCAT124'),
+(1, 'Ngô Trần Anh Đức', 'Nam', '1999-12-08', 'D17DCAT01-B', 'Đá bóng', 'Hà Nội', 'B17DCAT001'),
+(2, 'Phạm Văn Hiếu', 'Nam', '1999-12-12', 'D17DCAT01-B', 'Đá bóng', 'Nam ĐỊnh', 'B17DCAT012'),
+(3, 'Nguyễn Thái Học', 'Nam', '1998-12-12', 'D17DCAT01-B', 'Đá bóng', 'Hà Nội', 'B17DCAT124'),
 (14, 'Hoàng Ngọc Sơn', 'Nam', '1999-06-22', 'D17DCCN21-B', 'CNTT', 'Hà Nội', 'B17DCCN123'),
-(15, 'Trần Anh Đức', 'Nam', '1999-12-08', 'D17DCAT01-B', 'ATTT', 'Hà Nội', 'B17DCAT045'),
-(17, 'Nguyễn Linh', 'Nam', '1999-04-12', 'D17DAT01-B', 'ATTT', 'Hà Nam', 'B17DCAT012'),
-(18, 'Việt Hoàng', 'Nam', '1999-06-08', 'D17DCAT01-B', 'ATTT', 'Nam ĐỊnh', 'B17DCAT124'),
-(26, 'Nguyễn Thái Học', 'Nam', '1998-11-11', 'D17DCAT01-B', 'ATTT', 'Nam Định', 'B17DCAT148'),
-(27, 'Giang Chu', 'Nam', '1999-12-19', 'D17DCAT02-B', 'ATTT', 'Nam Định', 'B17DCAT015'),
+(15, 'Trần Anh Đức', 'Nam', '1999-12-08', 'D17DCAT01-B', 'Đá bóng', 'Hà Nội', 'B17DCAT045'),
+(17, 'Nguyễn Linh', 'Nam', '1999-04-12', 'D17DAT01-B', 'Đá bóng', 'Hà Nam', 'B17DCAT012'),
+(18, 'Việt Hoàng', 'Nam', '1999-06-08', 'D17DCAT01-B', 'Đá bóng', 'Nam ĐỊnh', 'B17DCAT124'),
+(26, 'Nguyễn Thái Học', 'Nam', '1998-11-11', 'D17DCAT01-B', 'Đá bóng', 'Nam Định', 'B17DCAT148'),
+(27, 'Giang Chu', 'Nam', '1999-12-19', 'D17DCAT02-B', 'Đá bóng', 'Nam Định', 'B17DCAT015'),
 (31, 'Bảo Quốc', 'Nam', '1999-02-20', 'K2', 'Cntt', 'Nghệ An', '123456');
 
 -- --------------------------------------------------------

@@ -73,7 +73,7 @@ if (!empty($_POST)) {
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Quản lý sinh viên</title>
+    <title>Quản lý học sinh</title>
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/font-awesome.min.css" rel="stylesheet">
     <link href="css/datepicker3.css" rel="stylesheet">
@@ -94,7 +94,7 @@ if (!empty($_POST)) {
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span></button>
-                <a class="navbar-brand" href="admin.php"><span>Quản Trị</span> SINH VIÊN </a>
+                <a class="navbar-brand" href="admin.php"><span>Quản Trị</span> học sinh </a>
                 <ul class="nav navbar-top-links navbar-right">
                     <li class="dropdown"><a class="dropdown-toggle count-info" data-toggle="dropdown" href="admin.php">
                         <em class="fa fa-envelope"></em><span class="label label-danger">15</span>
@@ -174,9 +174,9 @@ if (!empty($_POST)) {
 			<li><a href="admin.php"><em class="fa fa-dashboard">&nbsp;</em> Thông báo </a></li>
 			<li><a href="widgets.php"><em class="fa fa-calendar">&nbsp;</em> Lịch trình</a></li>
 			<li><a href="charts.php"><em class="fa fa-bar-chart">&nbsp;</em> Biểu đồ </a></li>
-			<li class="active"><a href="qlsv.php"><em class="fa label-default">&nbsp;</em> Danh sách sinh viên</a></li>
-			<li><a href="panels.php"><em class="fa label-default">&nbsp;</em> Thông tin môn học </a></li>
-            <li><a href="diem.php"><em class="fa label-default">&nbsp;</em> Bảng điểm </a></li>
+			<li class="active"><a href="qlsv.php"><em class="fa label-default">&nbsp;</em> Danh sách học sinh</a></li>
+			<li><a href="panels.php"><em class="fa label-default">&nbsp;</em> TÀI CHÍNH CLB </a></li>
+            <li><a href="diem.php"><em class="fa label-default">&nbsp;</em>Quản lý clb </a></li>
             
 			<li class="parent "><a data-toggle="collapse" href="#sub-item-1">
 				<em class="fa fa-navicon">&nbsp;</em> Thống kê tiền<span data-toggle="collapse" href="#sub-item-1" class="icon pull-right"><em class="fa fa-plus"></em></span>
@@ -203,14 +203,14 @@ if (!empty($_POST)) {
                 <li><a href="admin.php">
                     <em class="fa fa-home"></em>
                 </a></li>
-                <li class="active">Thêm sinh viên</li>
+                <li class="active">Thêm Thành Viên</li>
             </ol>
         </div><!--/.row-->
 
         <div id="page-wrapper">
             <div class="row">
             <div class="col-lg-12">
-                <h1 class="page-header"><b> THÊM SINH VIÊN </b></h1>
+                <h1 class="page-header"><b> Thêm Thành Viên </b></h1>
             </div>
         </div>
 			<div class="panel-body">
@@ -229,20 +229,20 @@ if (!empty($_POST)) {
 					  <input type="date" class="form-control" id="birth" name="birth" placeholder="Ngày tháng năm sinh">
 					</div>
 					<div class="form-group">
-					  <label for="lop">Lớp </label>
-					  <input type="text" class="form-control" id="lop" name="lop" placeholder="Lớp">
+					  <label for="lop">Nhóm </label>
+					  <input type="text" class="form-control" id="lop" name="lop" placeholder="Nhóm">
 					</div>
 					<div class="form-group">
-					  <label for="nganh">Ngành</label>
-					  <input type="text" class="form-control" id="nganh" name="nganh"placeholder=" Ngành">
+					  <label for="nganh">Câu lạc bộ</label>
+					  <input type="text" class="form-control" id="nganh" name="nganh"placeholder=" Câu lạc bộ">
 					</div>
 					<div class="form-group">
 					   <label for="que">Quê quán</label>
 					  <input type="text" class="form-control" id="que" name="que" placeholder="Quê quán">
 					</div>
 					<div class="form-group">
-					  <label for="MSV">Mã SV</label>
-					  <input type="text" class="form-control" id="MSV" name="MSV" placeholder="Mã sinh viên">
+					  <label for="MSV">Mã thành viên</label>
+					  <input type="text" class="form-control" id="MSV" name="MSV" placeholder="Mã học sinh">
 					</div>
 					<button class="btn btn-success">Lưu</button>
 					<button class="btn btn-info" onclick="window.open('qlsv.php', '_self')">Về trang quản lý</button>

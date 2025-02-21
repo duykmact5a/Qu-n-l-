@@ -20,7 +20,7 @@ require('Classes/PHPExcel.php');
 	$rowCount =1;
 
 	$sheet ->setCellValue('A'.$rowCount,'Họ và Tên');
-	$sheet ->setCellValue('B'.$rowCount,'Mã SV');
+	$sheet ->setCellValue('B'.$rowCount,'Mã thành viên');
 	$sheet ->setCellValue('C'.$rowCount,'Chuyên cần');
 	$sheet ->setCellValue('D'.$rowCount,'Bài tập lớn');
 	$sheet ->setCellValue('E'.$rowCount,'Giữa kì');

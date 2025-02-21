@@ -95,7 +95,7 @@ if (isset($_GET['ID']))
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Quản lý sinh viên</title>
+    <title>Quản lý học sinh</title>
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/font-awesome.min.css" rel="stylesheet">
     <link href="css/datepicker3.css" rel="stylesheet">
@@ -116,7 +116,7 @@ if (isset($_GET['ID']))
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span></button>
-                <a class="navbar-brand" href="admin.php"><span>Quản Trị</span> SINH VIÊN </a>
+                <a class="navbar-brand" href="admin.php"><span>Quản Trị</span> học sinh </a>
                 <ul class="nav navbar-top-links navbar-right">
                     <li class="dropdown"><a class="dropdown-toggle count-info" data-toggle="dropdown" href="admin.php">
                         <em class="fa fa-envelope"></em><span class="label label-danger">15</span>
@@ -196,10 +196,10 @@ if (isset($_GET['ID']))
 			<li><a href="admin.php"><em class="fa fa-dashboard">&nbsp;</em> Thông báo </a></li>
 			<li><a href="widgets.php"><em class="fa fa-calendar">&nbsp;</em> Lịch trình</a></li>
 			<li><a href="charts.php"><em class="fa fa-bar-chart">&nbsp;</em> Biểu đồ </a></li>
-			<li class="active"><a href="qlsv.php"><em class="fa label-default">&nbsp;</em> Danh sách sinh viên</a></li>
+			<li class="active"><a href="qlsv.php"><em class="fa label-default">&nbsp;</em> Danh sách học sinh</a></li>
 			
-			<li><a href="panels.php"><em class="fa label-default">&nbsp;</em> Thông tin môn học </a></li>
-            <li><a href="diem.php"><em class="fa label-default">&nbsp;</em> Bảng điểm </a></li>
+			<li><a href="panels.php"><em class="fa label-default">&nbsp;</em> TÀI CHÍNH CLB </a></li>
+            <li><a href="diem.php"><em class="fa label-default">&nbsp;</em>Quản lý clb </a></li>
 			<li class="parent "><a data-toggle="collapse" href="#sub-item-1">
 				<em class="fa fa-navicon">&nbsp;</em> Thống kê <span data-toggle="collapse" href="#sub-item-1" class="icon pull-right"><em class="fa fa-plus"></em></span>
                 </a>
@@ -225,7 +225,7 @@ if (isset($_GET['ID']))
                 <li><a href="admin.php">
                     <em class="fa fa-home"></em>
                 </a></li>
-                <li class="active"> Sửa thông tin sinh viên</li>
+                <li class="active"> Sửa thông tin học sinh</li>
             </ol>
         </div><!--/.row-->
 
@@ -233,7 +233,7 @@ if (isset($_GET['ID']))
 		 <div id="page-wrapper">
             <div class="row">
             <div class="col-lg-12">
-                <h1 class="page-header"><b> THÊM SINH VIÊN </b></h1>
+                <h1 class="page-header"><b> Thêm Thành Viên </b></h1>
             </div>
         </div>
 			<div class="panel-body">
@@ -253,11 +253,11 @@ if (isset($_GET['ID']))
 					  <input type="date" class="form-control" id="birth" name="birth" value="<?=$s_birth?>">
 					</div>
 					<div class="form-group">
-					  <label for="lop">Lớp </label>
+					  <label for="lop">Nhóm</label>
 					  <input type="text" class="form-control" id="lop" name="lop" value="<?=$s_lop?>">
 					</div>
 					<div class="form-group">
-					  <label for="nganh">Ngành</label>
+					  <label for="nganh">Câu lạc bộ</label>
 					  <input type="text" class="form-control" id="nganh" name="nganh" value="<?=$s_nganh?>">
 					</div>
 					<div class="form-group">
@@ -265,7 +265,7 @@ if (isset($_GET['ID']))
 					  <input type="text" class="form-control" id="que" name="que" value="<?=$s_que?>">
 					</div>
 					<div class="form-group">
-					  <label for="MSV">Mã SV</label>
+					  <label for="MSV">Mã thành viên</label>
 					  <input type="text" class="form-control" id="MSV" name="MSV" value="<?=$s_MSV?>">
 					</div>
 					<button class="btn btn-success">Lưu</button>

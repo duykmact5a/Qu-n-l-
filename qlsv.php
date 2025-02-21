@@ -15,7 +15,7 @@ require_once ('dbhelp.php');
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Quản lý sinh viên</title>
+    <title>Quản lý học sinh</title>
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/font-awesome.min.css" rel="stylesheet">
     <link href="css/datepicker3.css" rel="stylesheet">
@@ -36,7 +36,7 @@ require_once ('dbhelp.php');
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span></button>
-                <a class="navbar-brand" href="admin.php"><span>Quản Trị</span> SINH VIÊN </a>
+                <a class="navbar-brand" href="admin.php"><span>Quản Trị</span> học sinh </a>
                 <ul class="nav navbar-top-links navbar-right">
                     <li class="dropdown"><a class="dropdown-toggle count-info" data-toggle="dropdown" href="admin.php">
                         <em class="fa fa-envelope"></em><span class="label label-danger">15</span>
@@ -116,9 +116,9 @@ require_once ('dbhelp.php');
 			<li><a href="admin.php.php"><em class="fa fa-dashboard">&nbsp;</em> Thông báo </a></li>
 			<li><a href="widgets.php"><em class="fa fa-calendar">&nbsp;</em> Lịch trình</a></li>
 			<li><a href="charts.php"><em class="fa fa-bar-chart">&nbsp;</em> Biểu đồ </a></li>
-			<li class="active"><a href="qlsv.php"><em class="fa label-default">&nbsp;</em> Danh sách sinh viên</a></li>
-			<li><a href="panels.php"><em class="fa label-default">&nbsp;</em> Thông tin môn học </a></li>
-            <li><a href="diem.php"><em class="fa label-default">&nbsp;</em> Bảng điểm </a></li>
+			<li class="active"><a href="qlsv.php"><em class="fa label-default">&nbsp;</em> Danh sách học sinh</a></li>
+			<li><a href="panels.php"><em class="fa label-default">&nbsp;</em> TÀI CHÍNH CLB </a></li>
+            <li><a href="diem.php"><em class="fa label-default">&nbsp;</em>Quản lý clb </a></li>
 
 			<li class="parent "><a data-toggle="collapse" href="#sub-item-1">
 				<em class="fa fa-navicon">&nbsp;</em> Thống kê <span data-toggle="collapse" href="#sub-item-1" class="icon pull-right"><em class="fa fa-plus"></em></span>
@@ -151,7 +151,7 @@ require_once ('dbhelp.php');
         
         <div class="row">
             <div class="col-lg-12">
-                <h1 class="page-header"><b>QUẢN LÝ THÔNG TIN SINH VIÊN</b></h1>
+                <h1 class="page-header"><b>QUẢN LÝ THÔNG TIN THÀNH VIÊN</b></h1>
             </div>
         </div>
             <div class="container">
@@ -169,10 +169,10 @@ require_once ('dbhelp.php');
                             <th>Họ & Tên</th>
                             <th>Giới tính</th>
                             <th>Ngày sinh</th>
-                            <th>Lớp</th>
-                            <th>Ngành</th>
+                            <th>Nhóm</th>
+                            <th>Câu lạc bộ</th>
                             <th>Quê quán</th>
-                            <th>Mã SV</th>
+                            <th>Mã thành viên</th>
                             <th width="60px"></th>
                             <th width="60px"></th>
                         </tr>
@@ -215,7 +215,7 @@ foreach ($studentList as $std) {
 
     <script type="text/javascript">
         function deleteStudent(ID) {
-            option = confirm('Bạn có muốn xoá sinh viên này không')
+            option = confirm('Bạn có muốn xoá học sinh này không')
             if(!option) {
                 return;
             }

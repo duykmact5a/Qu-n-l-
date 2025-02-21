@@ -85,7 +85,7 @@ if (!empty($_POST)) {
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
         <meta name="description" content="" />
         <meta name="author" content="" />
-        <title>Sinh viên Ptit</title>
+        <title>học sinh Ptit</title>
         <!-- Favicon-->
         <link rel="icon" type="image/x-icon" href="assets/img/favicon.ico" />
         <!-- Font Awesome icons (free version)-->
@@ -127,26 +127,26 @@ if (!empty($_POST)) {
                 <br>
                 <br>
                 <br>
-                <h1>Xem thông tin môn học</h1>
+                <h1>Xem TÀI CHÍNH CLB</h1>
 
              <div class="panel-body">
                 <form method="post">
                     <div class="form-group">
-                      <label for="id_user"> Mã sinh viên </label>
+                      <label for="id_user"> Mã học sinh </label>
                       <input type="text" name="id" value="<?=$id?>" style="display: none;">
-                      <input required="true" type="text" class="form-control" id="id_user" name="id_user" placeholder="Mã sinh viên của bạn" value="<?=$s_id_user?>">
+                      <input required="true" type="text" class="form-control" id="id_user" name="id_user" placeholder="Mã học sinh của bạn" value="<?=$s_id_user?>">
                     </div>
                     <div class="form-group">
                       <label for="mon"> Môn </label>
-                      <input type="text" class="form-control" id="mon" name="mon" placeholder=" Tên môn học" value="<?=$s_mon?>">
+                      <input type="text" class="form-control" id="mon" name="mon" placeholder=" Ghi nhận đóng góp" value="<?=$s_mon?>">
                     </div>
                     <div class="form-group">
-                      <label for="ma"> Mã môn học</label>
-                      <input type="text" class="form-control" id="ma" name="ma" placeholder=" Mã môn học" value="<?=$s_ma?>">
+                      <label for="ma"> Họ và tên</label>
+                      <input type="text" class="form-control" id="ma" name="ma" placeholder=" Họ và tên" value="<?=$s_ma?>">
                     </div>
                     <div class="form-group">
                       <label for="cc"> Tín </label>
-                      <input type="int" class="form-control" id="tin" name="tin" placeholder=" Số tín chỉ " value="<?=$s_tin?>">
+                      <input type="int" class="form-control" id="tin" name="tin" placeholder=" Tiền đóng góp " value="<?=$s_tin?>">
                     </div>
                     
                     <button class="btn btn-success">Lưu</button>

@@ -17,7 +17,7 @@ require_once ('dbhelp.php');
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
         <meta name="description" content="" />
         <meta name="author" content="" />
-        <title>Sinh viên Ptit</title>
+        <title>học sinh Ptit</title>
         <!-- Favicon-->
         <link rel="icon" type="image/x-icon" href="assets/img/favicon.ico" />
         <!-- Font Awesome icons (free version)-->
@@ -66,9 +66,9 @@ require_once ('dbhelp.php');
 					<thead>
 						<tr>
 							<th>STT</th>
-							<th>Mã môn học</th>
-							<th>Tên môn học</th>
-							<th>Số tín chỉ</th>
+							<th>Họ và tên</th>
+							<th>Ghi nhận đóng góp</th>
+							<th>Tiền đóng góp</th>
 							<th>Đăng kí</th>
 
 						</tr>
@@ -118,9 +118,9 @@ foreach ($studentList as $std)
 						<h1>Đã đăng kí</h1>
 						<tr>
 							<th>STT</th>
-							<th>Mã môn học</th>
-							<th>Tên môn học</th>
-							<th>Số tín chỉ</th>
+							<th>Họ và tên</th>
+							<th>Ghi nhận đóng góp</th>
+							<th>Tiền đóng góp</th>
 							<th>Đã đăng kí</th>
 
 						</tr>

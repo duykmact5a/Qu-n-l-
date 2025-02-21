@@ -13,7 +13,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
         <meta name="description" content="" />
         <meta name="author" content="" />
-        <title>Sinh viên Ptit</title>
+        <title>học sinh Ptit</title>
         <!-- Favicon-->
         <link rel="icon" type="image/x-icon" href="assets/img/favicon.ico" />
         <!-- Font Awesome icons (free version)-->
@@ -48,7 +48,7 @@
         <header class="masthead bg-primary text-white text-center">
             <div class="container d-flex align-items-center flex-column">
                 <!-- Masthead Avatar Image-->
-                <img class="masthead-avatar mb-5" src="2.png" alt="" />
+                <img class="masthead-avatar mb-5" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRX1Ha1-AV86iljDbUPgVR6YZkRYtRZIxZPlw&s" alt="" />
                 <!-- Masthead Heading-->
                 <h1 class="masthead-heading text-uppercase mb-0">TRƯỜNG THCS</h1>
                 <br>
@@ -60,7 +60,7 @@
                     <div class="divider-custom-line"></div>
                 </div>
                 <!-- Masthead Subheading-->
-                <p class="masthead-subheading font-weight-light mb-0">Posts and Telecommunications Institute of Technology</p>
+                <p class="masthead-subheading font-weight-light mb-0">Ngo Quyen Secondary School</p>
             </div>
         </header>
 
@@ -76,90 +76,87 @@
             </div>
         </div>
 
-<a href="blog.php"><h3><b>Ngày 01/07/2020:</b></h3> </a>
+<a href="blog.php"><h3><b>Ngày 01/07/2025:</b></h3> </a>
 <br>
-<h4><b>Theo kế hoạch đã thông báo, hệ thống qldt đã mở từ 12h ngày 01/07 để Sinh viên đăng ký TKB học kỳ Hè:</b></h4>
-<b>1.Sinh viên đã đăng ký nguyện vọng học kỳ Hè:  </b>
+<h4><b>Theo kế hoạch đã thông báo, câu lạc bộ đã mở từ 12h ngày 01/07 để học sinh đăng ký tham gia :</b></h4>
+<b>1. Học sinh đã đăng ký nguyện vọng tham gia Câu lạc bộ:  </b>
 <br>
-    Thực hiện việc đăng ký theo thời gian quy định, kết thúc trước 24h ngày 05/07/2020, trong thời gian này, Sinh viên cần đăng nhập thường xuyên cho đến khi hoàn thành việc đăng ký của cá nhân. Phòng giáo vụ sẽ thường xuyên cập nhật, điều chỉnh TKB các học phần để tạo điều kiện thuận lợi tối đa cho việc đăng ký của sinh viên.
+    Các em học sinh vui lòng hoàn thành việc đăng ký theo thời gian quy định, kết thúc trước 24h ngày 05/07/2025. Trong thời gian này, các em cần theo dõi và đăng nhập thường xuyên để đảm bảo hoàn tất quá trình đăng ký. Ban tổ chức sẽ liên tục cập nhật, điều chỉnh danh sách và lịch sinh hoạt để tạo điều kiện thuận lợi nhất cho học sinh tham gia.
 <br>
 <br>
-   <b>2. Sinh viên chưa đăng ký nguyện vọng học kỳ Hè:  </b> 
-   <br>   Sau ngày 06/07/2020, căn cứ theo tình hình cụ thể cũng như nguyện vọng của sinh viên, Phòng Giáo vụ sẽ có Thông báo cụ thể trên trang chủ của hệ thống qldt.ptit.edu.vn; Sinh viên cần chú ý theo dõi để biết và thực hiện.
+   <b>2. Học sinh chưa đăng ký nguyện vọng tham gia Câu lạc bộ:  </b> 
+   <br>   Sau ngày 06/07/2025, căn cứ vào tình hình cụ thể và nhu cầu của học sinh, Ban tổ chức sẽ có thông báo chi tiết trên trang chủ của trường. Học sinh vui lòng theo dõi để cập nhật thông tin và thực hiện đăng ký nếu có nguyện vọng.
 <br>
 <br>
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 <br>
 
 
-<h3><b>Ngày 26/06/2020:</b></h3>
+<h3><b>Ngày 26/06/2025:</b></h3>
 <br>
-<b>Phòng Giáo vụ thông báo về việc mở các Lớp học và đăng ký Thời khóa biểu học kỳ phụ, năm học 2019-2020. Cụ thể:</b>
+<b>Danh sách và lịch sinh hoạt các Câu lạc bộ:</b>
 <br>
-<b>1.Danh sách và thời khóa biểu các học phần có bố trí mở lớp, không mở lớp; danh sách các học phần được thay thế bằng học phần tương đương khác.</b>
+<b>Danh sách các Câu lạc bộ đang hoạt động, lịch sinh hoạt cụ thể và các Câu lạc bộ đang tạm dừng hoạt động.</b>
  
 <br>
-Chi tiết sinh viên xem tại:  https://portal.ptit.edu.vn/giaovu/thong-bao-vv-dang-ky-thoi-khoa-bieu-cac-lop-hoc-phan-trong-hoc-ky-phu-nam-hoc-2019-2020/
+Chi tiết học sinh xem tại:  https://portal.ptit.edu.vn/giaovu/thong-bao-vv-dang-ky-thoi-khoa-bieu-cac-lop-hoc-phan-trong-hoc-ky-phu-nam-hoc-2019-2020/
 <br>
 <br>
 <b>2.   Đối tượng, hình thức và thời gian đăng ký:</b>
 
 <br>
 
-- Đối tượng: Sinh viên đã đăng ký nguyện vọng học kỳ phụ năm học 2019-2020.
+- Đối tượng: Học sinh có nguyện vọng tham gia các Câu lạc bộ của trường.
 <br>
 
-- Hình thức: đăng ký trực tiếp trên hệ thống QLĐT: http://qldt.ptit.edu.vn.
+- Hình thức: Đăng ký trực tiếp tại Văn phòng Đoàn – Đội hoặc qua hệ thống trực tuyến của trường.
 <br>
 
-- Cách đăng ký: Đăng nhập hệ thống -> Đăng ký môn học -> nhập "MÃ MÔN HỌC" phù hợp ở ô "Nhập môn học" -> chọn  Tìm kiếm -> chọn THỜI KHÓA BIỂU phù hợp -> chọn LƯU.
+- Đăng nhập hệ thống -> Chọn mục "Đăng ký Câu lạc bộ" -> Nhập "TÊN CÂU LẠC BỘ" mong muốn -> Chọn Tìm kiếm -> Chọn LỊCH SINH HOẠT phù hợp -> Chọn LƯU.
 <br>
 
-- Thời gian: Từ 12h00 ngày 01/07/2020 (thứ 4) đến 24h00 ngày 05/07/2020 (Chủ nhật).
+- Thời gian: Từ 12h00 ngày 01/07/2025 (thứ 4) đến 24h00 ngày 05/07/2025 (Chủ nhật).
 <br>
 <br>
 <b>3.   Lưu ý:</b>
 <br>
 
-- Các sinh viên không thực hiện đăng ký nguyện vọng học hè: Không được đăng ký Thời khóa biểu nêu ở mục 2. Sau ngày 05/07/2020, căn cứ vào tình hình đăng ký, Phòng Giáo vụ sẽ có thông báo hướng dẫn, xem xét giải quyết cụ thể cho các sinh viên có nhu cầu đăng ký học sau.
+- Học sinh không đăng ký trong thời gian trên sẽ không được tham gia các Câu lạc bộ trong đợt này. Sau ngày 05/07/2020, căn cứ vào tình hình thực tế, Ban tổ chức sẽ có hướng dẫn bổ sung cho các học sinh có nhu cầu tham gia muộn.
 
 <br>
--  Các học phần có mở riêng nhóm cho hệ Chất lượng cao: sinh viên hệ CLC chỉ đăng ký nhóm có mã lớp E, sinh viên hệ đại trà chỉ đăng ký nhóm có mã lớp H.
+- Học sinh có nhu cầu thay đổi Câu lạc bộ đã đăng ký, cần làm đơn xác nhận của giáo viên phụ trách (theo mẫu đăng ký thay đổi Câu lạc bộ) và nộp tại Văn phòng Đoàn – Đội từ ngày 01/07 đến hết ngày 10/07/2020.
 <br>
--  Đối với các học phần được học thay thế bằng các học phần khác: sinh viên thực hiện việc đăng ký thời khóa biểu học phần thay thế, đồng thời làm Đơn có xác nhận của Khoa chuyên môn (theo Mẫu đơn xin học môn thay thế) và nộp tại bộ phận 1 cửa - ô số 1 – <b>Phòng giáo vụ từ ngày 01/07 đến hết ngày 10/07/2020.</b>
+- Đối với các Câu lạc bộ có yêu cầu đặc biệt hoặc xét tuyển đầu vào, học sinh cần hoàn thành các thủ tục theo quy định riêng của từng Câu lạc bộ.</b>
 <br>
 <br>
 <h3><b>Xem Chi Tiết</b></h3>
 <br>
     Bản tin cũ 
     <br> 
-Thông báo: V/v Đăng ký xét tốt nghiệp đợt 1 năm 2020 (tháng 2/2020)
-... (03/02/2020)
+    THÔNG BÁO: V/v Đăng ký tham gia Câu lạc bộ học kỳ II năm học 2020 (03/02/2020)
 <br>
-THÔNG BÁO:  V/V ĐĂNG KÝ HỌC PHẦN THỰC TẬP TỐT NGHIỆP CÁC NGÀNH KHỐI KỸ THUẬT - KHÓA 2016
+THÔNG BÁO:  V/V Đăng ký tham gia Câu lạc bộ Khoa học - Kỹ thuật dành cho học sinh khối 8, 9 - KHÓA 2016
 ... (18/06/2020)
 <br>
-THÔNG BÁO:    V/v ĐĂNG KÝ THI CHUẨN ĐẦU RA TIẾNG ANH ĐỢT 1 NĂM 2020
+THÔNG BÁO:    V/v Đăng ký tham gia Câu lạc bộ Tiếng Anh ĐỢT 1 NĂM 2020
 ... (05/06/2020)
 <br>
-Thông báo:  v/v  tổ chức đăng ký khóa luận, học các học phần tốt  nghiệp các  ngành khối kinh tế, ngành truyền thông đa phương tiện - khóa 2016
+THÔNG BÁO: V/v Kiểm tra danh sách đăng ký và điều chỉnh Câu lạc bộ kỳ II năm học 2019 - 2020 (10/12/2019)
 ... (09/04/2020)<br>
 
 
-Thông báo: v/v thay đổi giảng viên/id trans của một số nhóm học phần tiếng anh
+TTHÔNG BÁO: V/v Đăng ký tham gia Câu lạc bộ Truyền thông và Sáng tạo (09/04/2020)
 
  
 ... (05/04/2020)
 <br>
 
-Thông báo:  v/v  rà soát thời khóa biểu và đăng ký học ghép kỳ 2 năm học 2019 - 2020
+THÔNG BÁO: V/v Thay đổi lịch sinh hoạt của một số Câu lạc bộ (05/04/2020)
 ... (10/12/2019)
 <br>
-Thông báo V/v: Công bố Thời khóa biểu, Danh sách lớp học lại trong học kỳ 1 năm học 2019-2020... (20/11/2019)
-Thông báo: V/v Mở hệ thống cho sinh viên đăng ký thi chuẩn đầu ra tiếng anh đợt 3 năm 2019
-... (16/10/2019)
+THÔNG BÁO: V/v Công bố lịch sinh hoạt và danh sách các Câu lạc bộ học lại trong học kỳ I năm học 2019 - 2020 (20/11/2019)
 <br>
-Thông báo: v/v hỗ trợ đăng ký học các học phần tốt nghiệp các ngành khối kỹ thuật, khóa 2015
+THÔNG BÁO: V/v Hỗ trợ học sinh đăng ký tham gia Câu lạc bộ Khoa học - Kỹ thuật khối 9 (24/09/2019)
 ... (24/09/2019)
 <br>
 Xem tất cả
@@ -176,9 +173,9 @@ Xem tất cả
                     <div class="col-lg-4 mb-5 mb-lg-0">
                         <h4 class="text-uppercase mb-4">Địa chỉ </h4>
                         <p class="lead mb-0">
-                            Km10, Đường Nguyễn Trãi
+                           33 Nguyễn Đức Cảnh
                             <br />
-                           Q.Hà Đông, Hà Nội
+                           Hải Phòng
                         </p>
                     </div>
                     <!-- Footer Social Icons-->
@@ -193,7 +190,7 @@ Xem tất cả
                     <div class="col-lg-4">
                         <h4 class="text-uppercase mb-4">Giới hiệu về trường</h4>
                         <p class="lead mb-0">
-                            Trường đại học ở Hà Nội
+                            Trường chuẩn Quốc Gia
                
                         </p>
                     </div>
@@ -202,7 +199,7 @@ Xem tất cả
         </footer>
         <!-- Copyright Section-->
         <div class="copyright py-4 text-center text-white">
-            <div class="container"><small>Copyright © PTIT qldt 2020</small></div>
+            <div class="container"><small>Copyright © clb 2025</small></div>
         </div>
         <!-- Scroll to Top Button (Only visible on small and extra-small screen sizes)-->
         <div class="scroll-to-top d-lg-none position-fixed">

@@ -13,7 +13,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
         <meta name="description" content="" />
         <meta name="author" content="" />
-        <title>Sinh viên Ptit</title>
+        <title>học sinh Ptit</title>
         <!-- Favicon-->
         <link rel="icon" type="image/x-icon" href="assets/img/favicon.ico" />
         <!-- Font Awesome icons (free version)-->
@@ -107,9 +107,9 @@
                     <div class="col-lg-4 mb-5 mb-lg-0">
                         <h4 class="text-uppercase mb-4">Địa chỉ </h4>
                         <p class="lead mb-0">
-                            Km10, Đường Nguyễn Trãi
+                           33 Nguyễn Đức Cảnh
                             <br />
-                           Q.Hà Đông, Hà Nội
+                           Hải Phòng
                         </p>
                     </div>
                     <!-- Footer Social Icons-->
@@ -124,7 +124,7 @@
                     <div class="col-lg-4">
                         <h4 class="text-uppercase mb-4">Giới hiệu về trường</h4>
                         <p class="lead mb-0">
-                            Trường đại học ở Hà Nội
+                            Trường chuẩn Quốc Gia
                
                         </p>
                     </div>
@@ -133,7 +133,7 @@
         </footer>
         <!-- Copyright Section-->
         <div class="copyright py-4 text-center text-white">
-            <div class="container"><small>Copyright © PTIT qldt 2020</small></div>
+            <div class="container"><small>Copyright © clb 2025</small></div>
         </div>
         <!-- Scroll to Top Button (Only visible on small and extra-small screen sizes)-->
         <div class="scroll-to-top d-lg-none position-fixed">

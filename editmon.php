@@ -80,7 +80,7 @@ if (!empty($_POST)) {
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Quản lý sinh viên</title>
+    <title>Quản lý học sinh</title>
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/font-awesome.min.css" rel="stylesheet">
     <link href="css/datepicker3.css" rel="stylesheet">
@@ -101,7 +101,7 @@ if (!empty($_POST)) {
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span></button>
-                <a class="navbar-brand" href="admin.php"><span>Quản Trị</span> SINH VIÊN </a>
+                <a class="navbar-brand" href="admin.php"><span>Quản Trị</span> học sinh </a>
                 <ul class="nav navbar-top-links navbar-right">
                     <li class="dropdown"><a class="dropdown-toggle count-info" data-toggle="dropdown" href="admin.php">
                         <em class="fa fa-envelope"></em><span class="label label-danger">15</span>
@@ -181,9 +181,9 @@ if (!empty($_POST)) {
 			<li><a href="admin.php"><em class="fa fa-dashboard">&nbsp;</em> Thông báo </a></li>
 			<li><a href="widgets.php"><em class="fa fa-calendar">&nbsp;</em> Lịch trình</a></li>
 			<li><a href="charts.php"><em class="fa fa-bar-chart">&nbsp;</em> Biểu đồ </a></li>
-			<li><a href="qlsv.php"><em class="fa label-default">&nbsp;</em> Danh sách sinh viên</a></li>
-			<li class="active"><a href="panels.php"><em class="fa label-default">&nbsp;</em> Thông tin môn học </a></li>
-            <li><a href="diem.php"><em class="fa label-default">&nbsp;</em> Bảng điểm </a></li>
+			<li><a href="qlsv.php"><em class="fa label-default">&nbsp;</em> Danh sách học sinh</a></li>
+			<li class="active"><a href="panels.php"><em class="fa label-default">&nbsp;</em> TÀI CHÍNH CLB </a></li>
+            <li><a href="diem.php"><em class="fa label-default">&nbsp;</em>Quản lý clb </a></li>
 			<li class="parent "><a data-toggle="collapse" href="#sub-item-1">
 				<em class="fa fa-navicon">&nbsp;</em> Thống kê<span data-toggle="collapse" href="#sub-item-1" class="icon pull-right"><em class="fa fa-plus"></em></span>
                 </a>
@@ -222,21 +222,21 @@ if (!empty($_POST)) {
 			<div class="panel-body">
 				<form method="post">
 					<div class="form-group">
-					  <label for="ma"> Mã môn học </label>
+					  <label for="ma"> Họ và tên </label>
 					  <input type="number" name="id" value="<?=$id?>" style="display: none;">
-					  <input required="true" type="text" class="form-control" id="ma" name="ma" placeholder="Mã Môn Học" value="<?=$s_ma?>">
+					  <input required="true" type="text" class="form-control" id="ma" name="ma" placeholder="Họ và tên" value="<?=$s_ma?>">
 					</div>
 					<div class="form-group">
-					  <label for="ten"> Tên môn học </label>
-					  <input type="text" class="form-control" id="ten" name="ten" placeholder=" Tên Môn Học " value="<?=$s_ten?>">
+					  <label for="ten"> Ghi nhận đóng góp </label>
+					  <input type="text" class="form-control" id="ten" name="ten" placeholder=" Ghi nhận đóng góp " value="<?=$s_ten?>">
 					</div>
 					<div class="form-group">
-					  <label for="sotin"> Số tin chỉ </label>
-					  <input type="int" class="form-control" id="sotin" name="sotin" placeholder="Số tín chỉ" value="<?=$s_sotin?>">
+					  <label for="sotin"> Tiền đóng góp </label>
+					  <input type="int" class="form-control" id="sotin" name="sotin" placeholder="Tiền đóng góp" value="<?=$s_sotin?>">
 					</div>
 					<div class="form-group"> 
-					  <label for="ki">Học kì</label>
-					  <input type="text" class="form-control" id="ki" name="ki" placeholder="Học kì" value="<?=$s_ki?>">
+					  <label for="ki">Thời gian đóng góp</label>
+					  <input type="text" class="form-control" id="ki" name="ki" placeholder="Thời gian đóng góp" value="<?=$s_ki?>">
 					</div>
 					<button class="btn btn-success">Lưu</button>
 					<button class="btn btn-info" onclick="window.open('panels.php', '_self')">Về trang quản lý</button>
